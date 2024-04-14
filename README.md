@@ -1,5 +1,1 @@
-Hello! I am a growing web developer. I love javascript and I think Git and Github are pretty amazing too 😄
-
-- 🌱 I’m currently learning React!
-
-- 🔭 I’m currently working on a Full-Stack MERN application. 🌎
+Hello there! I am a full-stack web developer from Australia. I love working in React/Typescript for front-end, and Express/NodeJS for the backend. I have a growing interest in C# and .NET though, and have commenced a foray into CSS art. 😁
